@@ -37,13 +37,14 @@ The trained model achieves over **99% accuracy** and is integrated into a simple
 
 ### 📷 GUI Preview
 
-<p align="center">
-  <img src="screenshot_gui.png" width="400"/>
-</p>
+![Screenshot 21](https://github.com/rit-ish11/Digit-Recognition-Using-CNN/blob/47a0f47a8b4ca38f4639b3460fd5d4a73ec56602/images/Screenshot%20(21).png?raw=true)
 
-> *Draw your digit in the black canvas and click "Predict" to see the result!*
+![Screenshot 22](https://github.com/rit-ish11/Digit-Recognition-Using-CNN/blob/47a0f47a8b4ca38f4639b3460fd5d4a73ec56602/images/Screenshot%20(22).png?raw=true)
 
----
+![Screenshot 23](https://github.com/rit-ish11/Digit-Recognition-Using-CNN/blob/47a0f47a8b4ca38f4639b3460fd5d4a73ec56602/images/Screenshot%20(23).png?raw=true)
+
+![Screenshot 24](https://github.com/rit-ish11/Digit-Recognition-Using-CNN/blob/47a0f47a8b4ca38f4639b3460fd5d4a73ec56602/images/Screenshot%20(24).png?raw=true)
+
 
 ### 📁 Project Structure
 
